@@ -194,35 +194,35 @@ export const faqItems = [
   {
     id: 1,
     title: "Can I enroll in multiple courses at once?",
-    text: "Absolutely! You can enroll in multiple courses simultaneously and access them at your convenience.",
+    text: "Yes! You can enroll in as many courses as you like at the same time. All your enrolled courses will be available in your dashboard, so you can learn at your own pace without any restrictions.",
   },
   {
     id: 2,
-    title: "Enrollment Process for Different Courses",
-    text: "Absolutely! You can enroll in multiple courses simultaneously and access them at your convenience.",
+    title: "How do I enroll in a course?",
+    text: "Simply choose the course you're interested in, click on the 'Enroll Now' button, and complete the payment process. Once done, you'll get instant access to the course materials.",
   },
   {
     id: 3,
     title: "What kind of support can I expect from instructors?",
-    text: "Absolutely! You can enroll in multiple courses simultaneously and access them at your convenience.",
+    text: "Our instructors provide comprehensive support through discussion forums, live Q&A sessions, and email assistance. You can also connect with other learners in the community for peer support.",
   },
   {
     id: 4,
-    title:
-      "Are the courses self-paced or do they have specific start and end dates?",
-    text: "Absolutely! You can enroll in multiple courses simultaneously and access them at your convenience.",
+    title: "Are the courses self-paced or do they have specific start and end dates?",
+    text: "Most of our courses are self-paced, allowing you to learn anytime, anywhere. However, some programs may have scheduled live sessions or deadlines for assignments, which will be clearly mentioned in the course details.",
   },
   {
     id: 5,
     title: "Are there any prerequisites for the courses?",
-    text: "Absolutely! You can enroll in multiple courses simultaneously and access them at your convenience.",
+    text: "It depends on the course. While most beginner-friendly courses require no prior knowledge, advanced courses may suggest certain skills or experience. Prerequisites, if any, are listed in the course description.",
   },
   {
     id: 6,
     title: "Can I download the course materials for offline access?",
-    text: "Absolutely! You can enroll in multiple courses simultaneously and access them at your convenience.",
+    text: "Yes, many of our courses provide downloadable resources such as PDFs, slides, and assignments for offline use. Video content, however, may only be accessible online to ensure the latest updates.",
   },
 ];
+
 
 export const contactInfo = [
   {
